@@ -7,12 +7,12 @@ relaunch in background: false
 creator code:
 application data folder:
   user:
-    default:
+    default: adfu1
     macos:
     windows:
     linux:
     ios:
-    android:
+    android: 
   shared:
     default:
     macos:
